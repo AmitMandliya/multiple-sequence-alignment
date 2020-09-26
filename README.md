@@ -1,6 +1,6 @@
-# Description
+### Project Idea
 Applying nature inspired ant colony optimization algorithm to solve the multiple sequence alignment problem.
 
-# Summary
+#### Summary
 Multiple Sequence Alignment (MSA) is a process through which study of closely related genes becomes easier. The problem is to find an optimal set of sequences between multiple sequences of DNA, RNA or Proteins. It is very helpful to understand the evolutionary relationships between different genes. This project implements a nature inspired metaheuristic- Ant Colony Optimization to solve the MSA problem in high-performance Julia language. We will be working on converting the MSA problem to Travelling Salesman Problem
 (TSP). TSP is a classic example of NP-Hard combinatorial problems in Computer Science. A lot of optimization algorithms are available to solve the TSP problem. Ant Colony Optimization (ACO) is one of the nature inspired metaheuristic which solves the TSP problem. ACO is a population based metaheuristic and can be used as approximation solutions to combinatorial problems. In the evaluation phase, we will be comparing the results to the existing implementations of the ACO algorithms. The metrics for the evaluation phase will be time taken to do the same approximation, memory utilization.
