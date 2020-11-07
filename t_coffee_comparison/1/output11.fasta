@@ -1,0 +1,81 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+s1              AGCGCG-GCCTGTT-----------------------ACTCAACCTCTGG
+s2              CTAAGTTCATCGGTTCCCATCCCGGGCCCAGCCTTTTGCCCAACCTTTGG
+s3              CGGACC-CACAGGT---------GGGCC------GATGGT-GTCCTCGGA
+s4              TTCAAC-GTCAATG-----------ATG------GGTTCT-GAACTTTGC
+                                                            **  * 
+
+s1              TTCAGGTT---T----------------------------CCGAAGCGCC
+s2              GTCAGGGTCCTA----------------------------CGGCAGTGCC
+s3              CTCGAGGACGCA----------------------------CCGAGCCGCC
+s4              CAAGAGTACCCACGATGTCTCCACTAACACCAGGAGCCCTCAGCTGCGT-
+                     *                                  * *    *  
+
+s1              GCTG-A--AGACAAACC------TGCGGACC-CC-ACGCC----------
+s2              CCAG-ACAGAACAAACCC---TCTCTGGCTC-CCAACATGTCT---CCGG
+s3              CCAGCA--CCGCACGGCTCAGGTTCCGGCCCACC-ACGCAGGGCAGGCGG
+s4              CTAT-ACTCTCCTAACCC---CACGTGCAGT-GCAGCACATCG---CTGC
+                     *     *    *         *      *  *             
+
+s1              --CCTCC-CCAGCACGGC------CCTGGGGCGCGAGCT---GG-AGCAG
+s2              CCCATCCCTCATCACAGC------CCTTCGGCCCTAGCA---GAAAGAAG
+s3              CCGGCCGCTCC-GGTAG----------ACGGCCGGGCCT---GA-AGCGG
+s4              CACAGGGCTCACCGAGGCTCCAGCCCTCC--CCACAGCACCCTTAGCAAG
+                         *      *              *     *           *
+
+s1              CTCTTCGAGCTGCTTCTCCCAC--CCGGGCTCGCCCAG--TCTGGAGGAG
+s2              CACAG-GA---TCTTGTCCTCC--CTGGGCTACTGTGG--TCTGGAGGAG
+s3              CTCTC-GG---ACCTCTCGAAC--CCGGGCTGGGTCCA--AGCAGAGGGG
+s4              CA-GG-GC---CCATGCTCCCCAACCAGGCAGCTGTAGAAGCTACTTGCG
+                *     *     * *      *  *  ***                 * *
+
+s1              GAACAGCGC--CCGCCCACCC-----CAAG--GAGTT---CCCATTTTCC
+s2              CAACAGCAC--CCACCGTCTCAAGA-CAAG--CAGTA---TCCACACTGC
+s3              CGTCAGCAG--CCGCCGAAGTGGCA-CAGC--CAGTGGTTGGAATGCCCC
+s4              CAGCGGCGCGGCTCCCGACTGACCGCCAGGCCCAGGG---CCCA-ACGGC
+                   * **    *  **          **     **        *     *
+
+s1              TTGG--GACTGAGGACACAAGGCAATAGACCCAC-GCGTTGGGTAGTG-A
+s2              TTCC--GGCTATGGGCACAATAAATCCCAC-CAA-GCAA--GGACCGG-A
+s3              TTCCACGCCGGCGGCCACC--GCTACACAC-AAAGACGT--AGCCCAG-C
+s4              CGCCT-GTCTCCCCGCACT--GCTACCTGC-CC--GCCC--CCACCGCCA
+                      * *      ***           *      *             
+
+s1              AGCACAGGGCTAATGCGAAGTGAG-CCCATGTCAGGGGTGGGAGTGCCAG
+s2              GGCAGGAGGCTAACGAGTAACGAT-CCCA-GCCAGGAGTCCCGGCGTTCA
+s3              GCCGCGACCC-CACACTTACC--T-ACCA-GCCATCCGCGACTCTGTTTG
+s4              GGCCGTTGAG-AAAGACGCGCGCTACTCA-CCCAGCA----CAGCCCTCC
+                  *         *              **   **                
+
+s1              TTCCACC-CCTCCACG--GCGGCCGAGGGACAAACACAAAGA---AAGGA
+s2              GGCTATC-TCTGCTCTTAAATACACAAGATTTAAGACAAAGAGGCAAGGA
+s3              CGGAAGC-GGCGCCAC--GCCACGCGCGCGCTATGACGC-CACTTCCGGA
+s4              G-CCATCCTGTTTGCGGAAGT-GACGC-CTCTACCGCGGAGACGTCA---
+                    * *                         *   *    *        
+
+s1              AGGGCCGGAGTTCCAGCCGTCACACT---CACCAGCACAGCC--AA-ACG
+s2              AAGGCCAGAACGCCGAACGCCACACT---CACCCACACAGTC--AT-CCA
+s3              GAGCGCGGGTCGCTTGGC-CCGGAAT---CCCGAGTCCCGGC--GTGCCG
+s4              -CATCCGGGGGGGCGAAGACGACACTGCGCACGCGCGCGGTAGGAA-CTC
+                     * *               * *   * *     * *          
+
+s1              CGATTCTGTTTGCGGAA-ACGGCGGC-CCGCGCCACGC--GTGTCTGCTT
+s2              CGATTCTGTTTGCGGAA-ACGCCGGC-CGGAGCCACGC--GTGCCTTGTT
+s3              CG-CGCGGCGTGCGGAGGGCGACGGCTCGAAGGGACGCAAGAGCCTGGTT
+s4              GGACTCGTTTTGCG----------GC-AG---------------------
+                 *   *    ****          **                        
+
+s1              ACGTCACTTCCGGAGGTGCGAGAGTCACGTGGAGACGGTCAGGC-GAGAG
+s2              ACGTCACTTCCGG-------------------------------------
+s3              GG----------------------------AGGGACGGCGTGGC-GGGCG
+s4              --------------------------------AGACTACGAGTCCCAGAA
+                                                                  
+
+s1              TGCCGCGACGCACGTCCTCCGCGCC-GG
+s2              ---------GGAGTGCGCCCGGGAC-TT
+s3              GG-TGGGAGGCTGGTCGCCTGAGCCCAG
+s4              GG-CCGCGCGC-GGGGGCGGGAGCG-CC
+                         *          * *     
+
+
